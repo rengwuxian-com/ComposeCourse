@@ -9,3 +9,5 @@
 * [4.6-打断施法：动画的边界限制、结束和取消](https://github.com/rengwuxian/CourseComposeAnimatableEnding)
 * [4.7-Transition：多属性的状态切换](https://github.com/rengwuxian/CourseComposeTransition)
 * [4.8-Transition 延伸：AnimatedVisibility()](https://github.com/rengwuxian/CourseComposeTransitionComposable)
+* [4.9-Transition 延伸：Crossfade()](https://github.com/rengwuxian/CourseComposeTransitionComposable)
+* [4.10-Transition 延伸：AnimatedContent()](https://github.com/rengwuxian/CourseComposeTransitionComposable)
