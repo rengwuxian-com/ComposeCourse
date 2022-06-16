@@ -11,3 +11,5 @@
 * [4.8-Transition 延伸：AnimatedVisibility()](https://github.com/rengwuxian/CourseComposeTransitionComposable)
 * [4.9-Transition 延伸：Crossfade()](https://github.com/rengwuxian/CourseComposeTransitionComposable)
 * [4.10-Transition 延伸：AnimatedContent()](https://github.com/rengwuxian/CourseComposeTransitionComposable)
+* [5.1-modifier_ Modifier = Modifier 的含义](https://github.com/rengwuxian/CourseComposeModifier)
+* [5.2-Modifier.then()、CombinedModifier 和 Modifier.Element](https://github.com/rengwuxian/CourseComposeModifierThen)
