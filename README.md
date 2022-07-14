@@ -13,4 +13,5 @@
 * [4.10-Transition 延伸：AnimatedContent()](https://github.com/rengwuxian/CourseComposeTransitionComposable)
 * [5.1-modifier_ Modifier = Modifier 的含义](https://github.com/rengwuxian/CourseComposeModifier)
 * [5.2-Modifier.then()、CombinedModifier 和 Modifier.Element](https://github.com/rengwuxian/CourseComposeModifierThen)
-* [5.3-Modifier.composed() 和 ComposedModifier](https://rengwuxian/CourseComposeModifierComposed)
+* [5.3-Modifier.composed() 和 ComposedModifier](https://github.com/rengwuxian/CourseComposeModifierComposed)
+* [5.4-LayoutModifier 和 Modifier.layout()](https://github.com/rengwuxian/CourseComposeModifierLayout)
