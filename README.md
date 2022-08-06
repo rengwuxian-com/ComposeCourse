@@ -16,3 +16,4 @@
 * [5.3-Modifier.composed() 和 ComposedModifier](https://github.com/rengwuxian/CourseComposeModifierComposed)
 * [5.4-LayoutModifier 和 Modifier.layout()](https://github.com/rengwuxian/CourseComposeModifierLayout)
 * [5.5-DrawModifier 的工作原理和对绘制的精细影响](https://github.com/rengwuxian/CourseComposeModifierDraw)
+* [5.6-PointerInputModifier 的功能介绍和原理简析](https://github.com/rengwuxian/CourseComposeModifierPointerInput)
