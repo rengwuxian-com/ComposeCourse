@@ -19,3 +19,4 @@
 * [5.6-PointerInputModifier 的功能介绍和原理简析](https://github.com/rengwuxian/CourseComposeModifierPointerInput)
 * [5.7-ParentDataModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierParentData)
 * [5.8-SemanticsModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierSemantics)
+* [5.10-OnRemeasuredModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierOnRemeasured)
