@@ -20,3 +20,4 @@
 * [5.7-ParentDataModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierParentData)
 * [5.8-SemanticsModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierSemantics)
 * [5.10-OnRemeasuredModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierOnRemeasured)
+* [5.11-OnPlacedModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierPlaced)
