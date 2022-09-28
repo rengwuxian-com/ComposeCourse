@@ -22,3 +22,4 @@
 * [5.10-OnRemeasuredModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierOnRemeasured)
 * [5.11-OnPlacedModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierPlaced)
 * [5.12-LookaheadOnPlacedModifier 的作用、写法和原理](https://github.com/rengwuxian/ComposeCourseModifierLookaheadOnPlaced)
+* [5.13-OnGloballyPositionedModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierOnGloballyPositioned)
