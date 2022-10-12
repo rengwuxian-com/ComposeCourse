@@ -24,3 +24,4 @@
 * [5.12-LookaheadOnPlacedModifier 的作用、写法和原理](https://github.com/rengwuxian/ComposeCourseModifierLookaheadOnPlaced)
 * [5.13-OnGloballyPositionedModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierOnGloballyPositioned)
 * [5.14-ModifierLocal 和 ModifierLocalProvider、ModifierLocalConsumer](https://github.com/rengwuxian/CourseComposeModifierLocal)
+* [6.1-「副作用（附带效应）」和 SideEffect()](https://github.com/rengwuxian/CourseComposeSideEffect)
