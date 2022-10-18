@@ -25,3 +25,7 @@
 * [5.13-OnGloballyPositionedModifier 的作用、写法和原理](https://github.com/rengwuxian/CourseComposeModifierOnGloballyPositioned)
 * [5.14-ModifierLocal 和 ModifierLocalProvider、ModifierLocalConsumer](https://github.com/rengwuxian/CourseComposeModifierLocal)
 * [6.1-「副作用（附带效应）」和 SideEffect()](https://github.com/rengwuxian/CourseComposeSideEffect)
+* [6.2-DisposableEffect()](https://github.com/rengwuxian/CourseComposeDisposableEffect)
+* [6.3-协程：LaunchedEffect()](https://github.com/rengwuxian/CourseComposeLaunchedEffect)
+* [6.4-rememberUpdatedState()](https://github.com/rengwuxian/CourseComposeRememberUpdatedState)
+* [6.5-协程：rememberCoroutineScope()](https://github.com/rengwuxian/CourseComposeRememberCoroutineScope)
