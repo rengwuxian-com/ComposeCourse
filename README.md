@@ -29,3 +29,5 @@
 * [6.3-协程：LaunchedEffect()](https://github.com/rengwuxian/CourseComposeLaunchedEffect)
 * [6.4-rememberUpdatedState()](https://github.com/rengwuxian/CourseComposeRememberUpdatedState)
 * [6.5-协程：rememberCoroutineScope()](https://github.com/rengwuxian/CourseComposeRememberCoroutineScope)
+* [6.6-从 produceState() 说起：协程（和其他）状态向 Compose 状态的转换](https://github.com/rengwuxian/CourseComposeProduceState)
+* [6.7-snapshotFlow()：把 Compose 的 State 转换成协程 Flow](https://github.com/rengwuxian/CourseComposeSnapshotFlow)
